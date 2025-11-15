@@ -76,16 +76,8 @@ Incluye un pequeño sistema con condicionales (vidas, energía, arma, nivel), re
 pip install ucimlrepo pandas matplotlib numpy
 ```
 
----
-
-## **Repositorio**
-
-https://github.com/0AlejoG0/Historial-Paciente-Qpx.git
-
----
-
 ## **Autor**
 
 **Alejandro García**  
 Proyecto realizado con fines académicos para practicar un proceso ETL completo en Python.  
-README redactado de forma natural, con apoyo de IA para organizarlo mejor.
+README redactado con apoyo de IA para organizarlo mejor.
